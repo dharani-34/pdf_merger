@@ -38,9 +38,6 @@ merged_output.pdf
 - PyPDF2
 - OS Module
 
-## 👩‍💻 Created By
-Dharani Sree
-
 ## 🛠 Built With
 - Python 3
 - PyPDF2
